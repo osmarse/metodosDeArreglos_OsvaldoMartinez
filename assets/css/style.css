@@ -1,0 +1,26 @@
+#todoInput {
+    width: 300px;
+}
+
+#lista {
+    font-size: large;
+}
+
+#textoTotal {
+    margin: 0px;
+    margin-top: 30px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#textoRealizadas {
+    margin-bottom: 30px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#botonBorrado {
+    margin-bottom: 25px;
+    height: 30;
+}
+
